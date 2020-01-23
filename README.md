@@ -16,7 +16,7 @@ Open the `main.ipynb` file in the `your-code` directory. Follow the instructions
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote. hallloa
 
 ## Resources
 
