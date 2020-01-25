@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab we will learn the foundations of functions. To start off, we will mostly learn how to write and think functionally. We will also implement functional transformations on pandas dataframes.
+ In this lab we will learn the foundations of functions. To start off, we will mostly learn how to write and think functionally. We will also implement functional transformations on pandas dataframes.
 
 ## Getting Started
 
